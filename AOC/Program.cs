@@ -9,7 +9,7 @@ namespace AOC
         {
             var stopwatchAll = new Stopwatch();
             stopwatchAll.Start();
-            for (int dayNumber = 5; dayNumber <= 5; dayNumber++)
+            for (int dayNumber = 6; dayNumber <= 6; dayNumber++)
             {
                 var solver = SolverFactory.GetSolver(dayNumber);
 
